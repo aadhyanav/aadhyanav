@@ -12,12 +12,9 @@ I'm **Aadhya** and I love all things tech and data science! 💻 In my free time
   - Bachelors Degree with a major in Economics (B.A) and minor in Data Science (B.S)
 
 - **Languages** ⌨️
-  - Python 
-  - JavaScript
-  - HTML
-  - SQL
+  - Python, JavaScript, HTML/CSS , SQL
 
-- **Projects** 🕺
+- **Projects** 🕺 Check it out!
   - Interactive Cat persona quiz: https://aadhyanav.github.io/CatWonderland/
   - Recipe Prediction ML Model: https://aadhyanav.github.io/Recipe_Ratings/
   - San Diego Airspace Analysis (Interactive Website): https://antoinecarre1.github.io/Final-Project/
