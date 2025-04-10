@@ -18,4 +18,5 @@ I'm **Aadhya** and I love all things tech and data science! 💻 In my free time
   - 😺 Interactive Cat persona quiz: https://aadhyanav.github.io/CatWonderland/
   - 🍲 Recipe Prediction ML Model: https://aadhyanav.github.io/Recipe_Ratings/
   - ✈️ San Diego Airspace Analysis (Interactive Website): https://antoinecarre1.github.io/Final-Project/
+  - 🇮🇳 India Crimes Analysis - EDA + ML model (Jupyter Notebook): https://github.com/aadhyanav/india_crimes_analysis/blob/main/india_crimes.ipynb
 
