@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome to my GitHub!!
 
-<!--
-**aadhyanav/aadhyanav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aadhya** and I love all things tech and data science! 💻 In my free time, I like to dance, read, and explore new places!
 
-Here are some ideas to get you started:
+- **Professional Experience** 👩🏽‍💻
+  - Business Analyst at SoCalGas, creating reporting pipelines through Python and Excel. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Research** 🔬
+  - Research Associate at the Econ Lab at UCSD. (1 year)
+ 
+- **Education** 📚
+  - Bachelors Degree with a major in Economics (B.A) and minor in Data Science (B.S)
+
+- **Languages** ⌨️
+  - Python 
+  - JavaScript
+  - HTML
+  - SQL
+
+- **Projects** 🕺
+  - Interactive Cat persona quiz: https://aadhyanav.github.io/CatWonderland/
+  - Recipe Prediction ML Model: https://aadhyanav.github.io/Recipe_Ratings/
+  - San Diego Airspace Analysis (Interactive Website): https://antoinecarre1.github.io/Final-Project/
