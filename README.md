@@ -9,7 +9,7 @@ I'm **Aadhya** and I love all things tech and data science! 💻 In my free time
   - Research Associate at the Econ Lab at UCSD. (1 year)
  
 - **Education** 📚
-  - Bachelors Degree with a major in Economics (B.A) and minor in Data Science (B.S)
+  - Bachelors Degree from UC San Diego with a major in Economics (B.A) and minor in Data Science (B.S)
 
 - **Languages** ⌨️
   - Python, JavaScript, HTML/CSS, SQL
@@ -18,3 +18,4 @@ I'm **Aadhya** and I love all things tech and data science! 💻 In my free time
   - 😺 Interactive Cat persona quiz: https://aadhyanav.github.io/CatWonderland/
   - 🍲 Recipe Prediction ML Model: https://aadhyanav.github.io/Recipe_Ratings/
   - ✈️ San Diego Airspace Analysis (Interactive Website): https://antoinecarre1.github.io/Final-Project/
+
