@@ -6,7 +6,7 @@ I'm **Aadhya** and I love all things tech and data science! 💻 In my free time
   - Business Analyst at SoCalGas, creating reporting pipelines through Python and Excel. 
 
 - **Research** 🔬
-  - Research Associate at the Econ Lab at UCSD. (1 year)
+  - Research Associate at the Econ Lab at UCSD, cleaning & transforming datasets. (1 year)
  
 - **Education** 📚
   - Bachelors Degree from UC San Diego with a major in Economics (B.A) and minor in Data Science (B.S)
